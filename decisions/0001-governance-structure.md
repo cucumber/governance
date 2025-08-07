@@ -14,7 +14,7 @@ Establish a governance structure for the project to provide a clear process for,
 
 ## PR URL
 
-TBA
+https://github.com/cucumber/governance/pull/1
 
 ## Problem
 
