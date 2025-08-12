@@ -13,7 +13,7 @@ The Cucumber open source project follows a collaborative governance model where 
 
 Not all decisions should be made here. Specifically, these governance decisions should be:
 
-- **Project-wide**: decisions that only affect one platform can be made by the responsible core maintainer
+- **Project-wide**: decisions that only affect one platform can (and should), be made externally by the responsible core maintainer(s)
 - **Non-technical**: almost all technical design can happen in discussions and issues on relevant repos
 
 A few examples of in-scope topics here:
