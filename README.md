@@ -30,7 +30,7 @@ To propose a change:
 1. **Create a pull request**: Submit a PR to this repo with your proposed decision document in the `decisions/` folder
 2. **Discussion**: Present and discuss the proposal at the weekly contributors meeting (Thursdays at 4pm UK time [in Discord](https://discord.com/channels/1260995505018765393/1273657925331845191)) if you can attend
 3. **Consensus building**: Work toward consensus among core team members, or at minimum achieve a majority vote
-4. **Finalisation**: Update the decision document based on feedback and merge the pull request once approved
+4. **Finalisation**: Update the decision document based on feedback from the core team, who will then approve and merge the pull request
 
 ## Core team
 
