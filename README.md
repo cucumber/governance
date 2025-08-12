@@ -19,7 +19,7 @@ Not all decisions should be made here. Specifically, these governance decisions 
 A few examples of in-scope topics here:
 
 - Sources and distribution of funding
-- Adopting or releasing projects
+- Adopting or releasing of existent or new(er), projects
 - Communications
 - The governance structure itself
 
